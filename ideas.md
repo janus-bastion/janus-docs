@@ -20,6 +20,7 @@ Objectif cette année :
 - replays des sessions possible ?
 - bloc-notes, clavier, etc.
 - faire du JIT / PoLP
+- Harbor pour le pull des images de façon air-gapped
 
 
 Suite : 
